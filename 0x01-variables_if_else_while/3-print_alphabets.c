@@ -14,11 +14,10 @@ int main(void)
 		putchar(c);
 	}
 
-	for (c = 'A'; c <= 'Z'; C++)
+	for (c = 'A'; c <= 'Z'; c++)
 	{
 		putchar(c);
 	}
-	
 	putchart('\n');
 
 	return(0);
