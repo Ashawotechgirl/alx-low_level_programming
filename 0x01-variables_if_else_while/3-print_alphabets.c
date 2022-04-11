@@ -18,7 +18,7 @@ int main(void)
 	{
 		putchar(c);
 	}
-	putchart('\n');
+	putchar('\n');
 
 	return(0);
 }	
